@@ -1,0 +1,45 @@
+_repo: Short-story-masterpieces-Vol-IV-Russian_68357
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cournos, John
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '2482'
+    url: http://www.gutenberg.org/2009/agents/2482
+    wikipedia: https://en.wikipedia.org/wiki/John_Cournos
+creator:
+  editor:
+    agent_name: Esenwein, J. Berg (Joseph Berg)
+    alias: Esenwein, Joseph Berg
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '6618'
+    url: http://www.gutenberg.org/2009/agents/6618
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Berg_Esenwein
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68357'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101054939010&view=1up&seq=11
+pgterms:marc905: 20201107140106esenwein
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Andrés V. Galia, momonaco, joehp and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :The Home correspondence school,1912,copyright 1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: The tree and the wedding / Dostoevski -- The old bell-ringer / Korolenko
+  -- Four days / Garshin -- In exile / Chekhov -- Silence / Andreev -- Comrades /
+  Gorki.
+title: Short-story masterpieces - Vol. IV - Russian
+url: http://www.gutenberg.org/ebooks/68357
