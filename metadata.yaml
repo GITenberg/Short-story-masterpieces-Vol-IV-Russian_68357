@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '2482'
     url: http://www.gutenberg.org/2009/agents/2482
     wikipedia: https://en.wikipedia.org/wiki/John_Cournos
+covers:
+- cover_type: archival
+  image_path: 68357-h/images/cover.jpg
 creator:
   editor:
     agent_name: Esenwein, J. Berg (Joseph Berg)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6618
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Berg_Esenwein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68357#Short-story-masterpieces-Vol-IV-Russian
 gutenberg_issued: '2022-06-20'
 identifiers:
   gutenberg: '68357'
